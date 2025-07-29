@@ -1,0 +1,15 @@
+{
+  "name": "pendaftaran/beasiswa",
+  "description": "Aplikasi Pendaftaran Beasiswa Sederhana",
+  "version": "1.0.0",
+  "require": {
+    "respect/validation": "^2.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "./"
+    }
+  },
+  "minimum-stability": "stable",
+  "license": "MIT"
+}
