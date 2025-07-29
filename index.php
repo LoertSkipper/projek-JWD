@@ -31,11 +31,13 @@
         <div class="text-center">
             <h1 class="display-5 mb-4">Selamat Datang di Website Beasiswa</h1>
             <p class="lead">
-                Beasiswa adalah bantuan dana pendidikan yang diberikan kepada siswa atau mahasiswa untuk 
-                mendukung proses belajar mereka. Program beasiswa biasanya ditujukan bagi mereka yang berprestasi 
-                atau memiliki keterbatasan ekonomi, sehingga dapat melanjutkan pendidikan tanpa hambatan biaya. 
-                Dengan adanya beasiswa, diharapkan penerima dapat fokus pada pengembangan diri dan meraih cita-cita 
-                di bidang akademik maupun non-akademik.
+                Beasiswa akademik adalah bantuan dana pendidikan yang diberikan kepada siswa atau mahasiswa 
+                yang memiliki prestasi di bidang akademik, seperti nilai tinggi atau juara lomba mata pelajaran. 
+            </p>
+            <p class="lead">
+                Beasiswa non akademik diberikan kepada mereka yang berprestasi di bidang lain, seperti olahraga, 
+                seni, atau kegiatan sosial. Kedua jenis beasiswa ini bertujuan mendukung pengembangan potensi dan 
+                bakat penerima agar dapat meraih prestasi lebih tinggi di bidang masing-masing.
             </p>
         </div>
     </div>
